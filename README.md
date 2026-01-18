@@ -18,4 +18,4 @@ This project focuses on analyzing customer retention for a telecom company using
    An interactive dashboard designed to analyze retail sales performance and the impact of external factors.
 * Objective: Analyze weekly sales data to identify seasonal trends and optimize revenue growth
 *  Features: Built-in interactive filters for Year, Month, and Store ID for deep-dive analysis
-*  
+
