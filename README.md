@@ -22,3 +22,6 @@ This project focuses on analyzing customer retention for a telecom company using
 
 
 # [Project 3: Interactive Healthcare Patient Analytics](https://github.com/reemaa-h/Data-Analysis/tree/main/Media)
+An interactive hospital dashboard built with Python to explore patient data and predict health risks.
+* View individual patient profiles including medical history and biometrics
+* Includes a simple risk prediction model for diabetes and hypertension  
