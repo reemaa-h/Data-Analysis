@@ -14,7 +14,7 @@ This project focuses on analyzing customer retention for a telecom company using
  
 
   
-# [Project 2: Walmart Sales Analysis](https://github.com/reemaa-h/Data-Analysis/commit/46ed5d63e05b069a3e5fbc7e3ccc39965279a8ac)
+# [Project 2: Walmart Sales Analysis][(https://github.com/reemaa-h/Data-Analysis/commit/46ed5d63e05b069a3e5fbc7e3ccc39965279a8ac](https://github.com/reemaa-h/Data-Analysis/blob/main/walmart.pbix))
    An interactive dashboard designed to analyze retail sales performance and the impact of external factors.
 * Objective: Analyze weekly sales data to identify seasonal trends and optimize revenue growth
 *  Features: Built-in interactive filters for Year, Month, and Store ID for deep-dive analysis
