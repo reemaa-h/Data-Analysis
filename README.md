@@ -21,4 +21,4 @@ This project focuses on analyzing customer retention for a telecom company using
 
 
 
-# [Project 3: Interactive Healthcare Patient Analytics]([https://github.com/reemaa-h/Data-Analysis/commit/ddc48229e5c1335e6010f876fa51549a176e6f2e](https://github.com/reemaa-h/Data-Analysis/tree/d1b011dee2345d9e72e9a071a84d6e1212a1196c/Media))
+# [Project 3: Interactive Healthcare Patient Analytics](https://github.com/reemaa-h/Data-Analysis/tree/main/Media)
